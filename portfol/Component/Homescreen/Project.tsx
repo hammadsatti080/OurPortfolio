@@ -7,7 +7,7 @@ const videoProjects = [
     title: 'Panjpeer Website',
     image: '/Images/Panjpeer.mp4',
     desc: 'Modern responsive portfolio built with React.js, Tailwind CSS, and smooth animations.',
-    link: 'https://panjpeer-project-frontend.vercel.app/'
+    link: 'https://panjpeer-frontendcode.vercel.app/'
   },
   {
     title: 'School Management',
