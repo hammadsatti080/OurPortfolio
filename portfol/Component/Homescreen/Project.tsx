@@ -15,6 +15,12 @@ const videoProjects = [
     desc: 'Modern responsive system with clean UI and optimized performance.',
     link: 'https://sop-khaki.vercel.app/'
   },
+   {
+    title: 'Ecommerence',
+    image: '/Images/ecomerence.mp4',
+    desc: 'Modern responsive system with clean UI and optimized performance.',
+    link: 'https://ecommerence-bay.vercel.app/'
+  },
 ]
 
 const imageProjects = [
