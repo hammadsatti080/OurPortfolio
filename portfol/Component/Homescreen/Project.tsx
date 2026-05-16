@@ -3,24 +3,26 @@ import React from 'react'
 import Image from 'next/image'
 
 const videoProjects = [
-  {
-    title: 'Panjpeer Website',
-    image: '/Images/Panjpeer.mp4',
-    desc: 'Modern responsive portfolio built with React.js, Tailwind CSS, and smooth animations.',
-    link: 'https://panjpeer-frontendcode.vercel.app/'
-  },
-  {
-    title: 'School Management',
-    image: '/Images/school.mp4',
-    desc: 'Modern responsive system with clean UI and optimized performance.',
-    link: 'https://sop-khaki.vercel.app/'
-  },
+ 
    {
     title: 'Ecommerence',
     image: '/Images/ecomerence.mp4',
     desc: 'Modern responsive system with clean UI and optimized performance.',
     link: 'https://ecommerence-bay.vercel.app/'
   },
+  {
+    title: 'School Management',
+    image: '/Images/school.mp4',
+    desc: 'Modern responsive system with clean UI and optimized performance.',
+    link: 'https://school-frontend-hazel.vercel.app/'
+  },
+   {
+    title: 'Panjpeer Website',
+    image: '/Images/Panjpeer.mp4',
+    desc: 'Modern responsive portfolio built with React.js, Tailwind CSS, and smooth animations.',
+    link: 'https://panjpeer-frontendcode.vercel.app/'
+  },
+  
 ]
 
 const imageProjects = [
