@@ -24,7 +24,7 @@ const videoProjects = [
   },
     {
     title: 'Arid GPA / CGPA Calculator',
-  image: '/Images/cgpa.jpeg',
+     image: '/Images/c.jpeg',
     desc: 'Modern responsive portfolio built with Next.js, Tailwind CSS, and smooth animations.',
     link: 'https://cgpa-calculator-eta-six.vercel.app/'
   },
