@@ -19,11 +19,16 @@ const projects = [
  
    {
         title: 'Panjpeer Website',
-        image: '/Images/Panjpeer.mp4',
+     image: '/Images/Panjpeer.mp4',
         desc: 'Modern responsive portfolio built with React.js, Tailwind CSS, and smooth animations.',
         link: 'https://panjpeer-frontendcode.vercel.app/'
     },
-
+ {
+    title: 'Arid GPA / CGPA Calculator',
+     image: '/Images/cgpa.jpeg',
+    desc: 'Modern responsive portfolio built with Next.js, Tailwind CSS, and smooth animations.',
+    link: 'https://cgpa-calculator-eta-six.vercel.app/'
+  },
 ]
 const project = [
     {
