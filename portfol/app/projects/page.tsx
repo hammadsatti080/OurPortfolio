@@ -15,7 +15,7 @@ const projects = [
     title: 'Farm management',
     image: '/Images/ecomerence.mp4',
     desc: 'Modern responsive system with clean UI and optimized performance.',
-    link: 'https://farm-frontend-8ivxxlrkm-hammad-ur-rehmans-projects-fd0a9143.vercel.app/'
+    link: 'https://farm-frontend-mu.vercel.app/'
   },
     {
         title: 'School Management ',
